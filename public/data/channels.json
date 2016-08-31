@@ -1,0 +1,129 @@
+{
+	"version": 1,
+	"channels": [
+		{
+			"id": "0",
+			"name": "All",
+			"type": "basic",
+			"description": "",
+			"mode": "live",
+			"keywords": [],
+			"gridpoint_id": 3,
+			"content_sources": {
+				"63": [
+					"all"
+				]
+			}
+		},
+		{
+			"name": "Saved",
+			"id": "1",
+			"type": "saved",
+			"description": null,
+			"mode": "live",
+			"keywords": []
+		},
+		{
+			"name": "Sex & Relationships",
+			"id": "2",
+			"type": "basic",
+			"description": "Excellent Sex & Relationships articles!",
+			"mode": "live",
+			"keywords": [
+				"Sex",
+				"Relationships",
+				"articles"
+			],
+			"gridpoint_id": 3,
+			"content_sources": {
+				"63": [
+					"2","3","4"
+				],
+				"64": [
+					"8"
+				]
+			}
+		},
+		{
+			"name": "Celebrities & Entertainment",
+			"id": "3",
+			"type": "basic",
+			"description": "Excellent Celebrities & Entertainment news!",
+			"mode": "live",
+			"keywords": [
+				"Celebrities",
+				"Entertainment"
+			],
+			"gridpoint_id": 3,
+			"content_sources": {
+				"63": [
+					"3"
+				]
+			}
+		},
+		{
+			"id": "4",
+			"name": "Beauty & Style",
+			"type": "basic",
+			"description": "Beauty & Style News!",
+			"mode": "live",
+			"keywords": [
+				"Beauty & Style"
+			],
+			"gridpoint_id": 3,
+			"content_sources": {
+				"63": [
+					"4"
+				]
+			}
+		},
+		{
+			"name": "Politics",
+			"id": "5",
+			"type": "basic",
+			"description": "",
+			"mode": "draft",
+			"keywords": [
+				"Politics"
+			],
+			"gridpoint_id": 3,
+			"content_sources": {
+				"63": [
+					"12"
+				]
+			}
+		},
+		{
+			"name": "College",
+			"id": "6",
+			"type": "basic",
+			"description": "Excellent College Information.",
+			"mode": "inactive",
+			"keywords": [
+				"College"
+			],
+			"gridpoint_id": 3,
+			"content_sources": {
+				"63": [
+					"11"
+				]
+			}
+		},
+		{
+			"name": "Health & Fitness",
+			"id": "7",
+			"type": "basic",
+			"description": "Health & Fitness",
+			"mode": "live",
+			"keywords": [
+				"Health & Fitness"
+			],
+			"gridpoint_id": 3,
+			"content_sources": {
+				"63": [
+					"13"
+				]
+			}
+		}
+	]
+}

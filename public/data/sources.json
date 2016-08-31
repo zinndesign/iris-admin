@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"sources": {
+		"63": {
+			"2": {
+				"name": "Beauty & Style",
+				"url": "xxx"
+			},
+			"3": {
+				"name": "Fashion",
+				"url": "xxx"
+			},
+			"4":{
+				"name": "Make-up",
+				"url": "xxx"
+			},
+			"5":{
+				"name": "Sports",
+				"url": "xxx"
+			}
+		},
+		"64": {
+			"8": {
+				"name": "Style",
+				"url": "xxx"
+			},
+			"11": {
+				"name": "Society",
+				"url": "xxx"
+			}
+		},
+		"68": {
+			"1": {
+				"name": "Wotcha",
+				"url": "xxx"
+			}
+		}
+	}
+}
